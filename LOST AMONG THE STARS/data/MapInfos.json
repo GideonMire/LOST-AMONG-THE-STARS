@@ -25,12 +25,12 @@ null,
 null,
 null,
 null,
-{"id":26,"expanded":true,"name":" Desert planet","order":13,"parentId":0,"scrollX":619,"scrollY":344.5},
-{"id":27,"expanded":true,"name":"Cave","order":14,"parentId":26,"scrollX":928.5,"scrollY":516.75,"quick":false},
-{"id":28,"expanded":true,"name":"Abandoned Desert Temple","order":15,"parentId":27,"scrollX":757,"scrollY":588.5,"quick":false},
-{"id":29,"expanded":false,"name":"Volcano","order":16,"parentId":28,"scrollX":1330,"scrollY":352.5,"quick":false},
-{"id":30,"expanded":true,"name":"Market","order":17,"parentId":29,"scrollX":617.5,"scrollY":339.5,"quick":false},
+{"id":26,"expanded":true,"name":" Desert planet","order":13,"parentId":0,"scrollX":840,"scrollY":509.25},
+{"id":27,"expanded":true,"name":"Cave","order":14,"parentId":26,"scrollX":840,"scrollY":497.25,"quick":false},
+{"id":28,"expanded":true,"name":"Abandoned Desert Temple","order":15,"parentId":27,"scrollX":852,"scrollY":588.75,"quick":false},
+{"id":29,"expanded":true,"name":"Volcano","order":16,"parentId":28,"scrollX":1318.5,"scrollY":909.75,"quick":false},
+{"id":30,"expanded":true,"name":"Market","order":17,"parentId":29,"scrollX":840,"scrollY":509.25,"quick":false},
 {"id":31,"expanded":true,"name":"Store room","order":18,"parentId":30,"scrollX":619,"scrollY":352.5,"quick":false},
 {"id":32,"expanded":true,"name":"small room","order":19,"parentId":31,"scrollX":619,"scrollY":352.5,"quick":false},
-{"id":33,"expanded":false,"name":"Item Shop","order":20,"parentId":32,"scrollX":627,"scrollY":463.5,"quick":false}
+{"id":33,"expanded":false,"name":"Item Shop","order":20,"parentId":32,"scrollX":840,"scrollY":497.25,"quick":false}
 ]
